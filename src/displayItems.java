@@ -66,6 +66,7 @@ public class displayItems extends JFrame {
         }
     }
 
+    //This is a commit testing
     public static void main(String[] args) {
         // Run the application in the Event Dispatch Thread (EDT)
         SwingUtilities.invokeLater(new Runnable() {
